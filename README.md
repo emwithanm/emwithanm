@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @emwithanm
+- 👋 Hi, I’m @emwithanm - I go by Maida, or Em.
 - 👀 I’m interested in AI/ML, writing of all sorts, puns and glitter.
 - 🌱 I’m currently studying CS and Chemistry at KAIST, South Korea.
 - 💞️ I’m looking to collaborate on any projects pertaining to CS and Chemistry! Open to all topics, really.
