@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emwithanm - I go by Maida, or Em.
-- 👀 I’m interested in AI/ML, writing of all sorts, puns and glitter.
-- 🌱 I’m currently studying CS and Chemistry at KAIST, South Korea.
-- 💞️ I’m looking to collaborate on any projects pertaining to CS and Chemistry! Open to all topics, really.
+- 👀 I’m interested in data science, human-centred AI, data-driven design, writing of all sorts, puns and glitter.
+- 🌱 I’m currently studying Industrial Design and AI at KAIST, South Korea.
+- 💞️ I’m looking to collaborate on any projects pertaining to ID, AI or HCI! Open to all topics, really.
 - 📫 Please reach me on my email, maidaa25@kaist.ac.kr
 
 <!---
